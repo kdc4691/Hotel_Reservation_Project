@@ -39,12 +39,13 @@ Hotel Reservation 프로젝트는 회원가입을 통하여 sqlite3 DB에 정보
 
 # 5. 프로젝트 결과물
 
-# 5-1. 프로젝트명   
+## 5-1. 프로젝트명   
 	Hotel Reservation App
 
-# 5-2. 프로젝트 개요
+## 5-2. 프로젝트 개요
 Android 기반의 소프트웨어 개발로 sqlite3 DB를 연동하고 JAVA언어를 이용하여 호텡의 객실을 예약(Hotel reservation)을 하는 안드로이드 프로그램을 구현하는 프로젝트입니다.
 
-# 5-3. 프로젝트 수행 세부일정 및 내용
+## 5-3. 프로젝트 수행 세부일정 및 내용
 ■ 프로젝트 수행 세부 일정
 
+![image](https://user-images.githubusercontent.com/65882143/221432791-2764eda1-747c-4630-8bad-2e1cae8ae474.png)
