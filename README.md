@@ -15,7 +15,7 @@
  
  - 5-3 프로젝트 수행 세부 일정 및 내용
  
- - 5-4 프로젝트 결과  
+ - 5-4 프로젝트 실행 결과  
  
 
 # 1. 프로젝트 목적
@@ -94,4 +94,27 @@ Room,Reservation테이블값 가져와 최근예약일자, 각각 해당 객실 
 ■ 프로젝트 수행 세부 일정  
 
 ![image](https://user-images.githubusercontent.com/65882143/221432791-2764eda1-747c-4630-8bad-2e1cae8ae474.png)
+
+
+## 5-3. 프로젝트 실행 결과
+
+### 로그인 화면
+![image](https://user-images.githubusercontent.com/65882143/221439131-8d319daf-3294-4366-b051-17e20b0a5c16.png)
+
+### 회원가입 화면
+![image](https://user-images.githubusercontent.com/65882143/221438956-1b9628c2-1883-4163-b574-6760c165c5cb.png)
+
+### 메인 화면
+![image](https://user-images.githubusercontent.com/65882143/221439017-17ed7f6e-8a97-4f3e-982f-c9a5eeeaafed.png)
+
+### 예약 화면
+![image](https://user-images.githubusercontent.com/65882143/221439042-0042ee02-c91a-4054-a77f-3b00554849dd.png)
+
+### 예약목록 화면
+![image](https://user-images.githubusercontent.com/65882143/221439072-ae23981f-b0d0-4e81-bc20-46af432aec20.png)
+
+
+
+
+
 
