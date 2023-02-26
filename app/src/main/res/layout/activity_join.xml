@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d42020"
+    tools:context=".Join">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="411dp"
+        android:layout_height="296dp"
+        android:src="@drawable/hotel">
+
+    </ImageView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/imageView">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/joinID"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:textColorHint="#FFFFFF"
+                android:textColor="#FFFFFF"
+                android:hint="Enter ID" />
+
+            <Button
+                android:id="@+id/btnIDC"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@drawable/rectangle2"
+                android:text="중복확인" />
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/joinPW"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#FFFFFF"
+            android:textColor="#FFFFFF"
+            android:hint="Password" />
+
+        <EditText
+            android:id="@+id/joinPWC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#FFFFFF"
+            android:textColor="#FFFFFF"
+            android:hint="Password Correct" />
+
+        <EditText
+            android:id="@+id/joinName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#FFFFFF"
+            android:textColor="#FFFFFF"
+            android:hint="User Name" />
+
+        <EditText
+            android:id="@+id/joinEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#FFFFFF"
+            android:textColor="#FFFFFF"
+            android:hint="Email" />
+
+
+
+        <Button
+            android:id="@+id/btnjoin"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="40dp"
+            android:background="@drawable/rectangle2"
+            android:text="Join"/>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
